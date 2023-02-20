@@ -1,0 +1,182 @@
+.upperlogo {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    padding-inline-end: 100%;
+    background-color: #004b7d39;
+}
+
+.box {
+    padding-block: 320px;
+    position: absolute;
+    height: auto;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(4, 4, 128, 0.701);
+
+}
+
+#buttons {
+    position: absolute;
+    top: 330px;
+    line-height: 60px;
+
+}
+
+.headings {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    line-height: 20px;
+    top: 50px;
+
+
+}
+
+h3 {
+    font-size: 30px;
+}
+
+h1 {
+
+    font-size: 100px;
+
+}
+
+h2 {
+    font-size: 30px;
+
+}
+
+
+#apply {
+    background-color: #818a913b;
+    font-size: 15px;
+    padding: 12px 24px;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+    color: #fff;
+    text-align: center;
+}
+
+#login {
+    background-color: #818a913b;
+    font-size: 15px;
+    padding: 12px 24px;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+    color: #fff;
+    text-align: center;
+}
+
+#login:hover {
+    background-color: #004b7d;
+}
+
+#apply:hover {
+    background-color: #004b7d;
+
+}
+
+#prospectus {
+    background-color: #818a913b;
+    font-size: 15px;
+    padding: 12px 24px;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+    color: #fff;
+    text-align: center;
+}
+
+#prospectus:hover {
+    background-color: #004b7d;
+
+}
+
+#successful {
+    background-color: #818a913b;
+    font-size: 15px;
+    padding: 12px 24px;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+    color: #fff;
+    text-align: center;
+}
+
+#successful:hover {
+    background-color: #004b7d;
+
+}
+
+#programsoffered {
+    background-color: #818a913b;
+    font-size: 15px;
+    padding: 12px 24px;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+    color: #fff;
+    text-align: center;
+}
+
+#programsoffered:hover {
+    background-color: #004b7d;
+}
+
+.box2 {
+    padding-block: 320px;
+    position: absolute;
+    height: auto;
+    width: 100%;
+    top: 650px;
+    left: 0;
+    background-color: rgba(255, 255, 255, 0.504);
+}
+
+.city {
+    position: absolute;
+
+    box-shadow: -23px 22px 2px 1px #004b7d;
+    top: 750px;
+    left: 70px;
+}
+
+#city {
+    width: 350px;
+    height: 300px;
+}
+
+.readmore {
+    top: 1000px;
+    left: 480px;
+    background-color: #818a913b;
+    font-size: 15px;
+    padding: 12px 24px;
+    border-style: solid;
+    border-color: rgb(2, 30, 55);
+    border-width: 5px 5px 5px 5px;
+    color: #000000;
+    text-align: center;
+}
+
+.readmore:hover {
+    background-color: #004b7d;
+    color: black;
+}
+
+.textbox2 {
+    color: #004b7d;
+    font-family: "Public Sans", Sans-serif;
+    position: absolute;
+    top: 750px;
+    left: 450px;
+}
+
+.intro {
+    font-size: 30px;
+}
+
+.introtext {
+
+    font-size: 23px;
+    font-weight: 40;
+}
